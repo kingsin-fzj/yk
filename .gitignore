@@ -1,0 +1,8 @@
+Debug
+Release
+ipch
+.svn
+*.opensdf
+*.log
+*.exe
+*.db
